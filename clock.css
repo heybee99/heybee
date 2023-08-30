@@ -1,0 +1,72 @@
+.center-main {
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 500px;
+    height: 500px;
+    border-color: crimson;
+    backdrop-filter: blur(25px);
+    
+}
+.main-body {
+    margin-top: 60px;
+}
+.clock {
+    color: red;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family: cursive;
+    
+}
+.marq {
+    color: white;
+}
+
+.date {
+    gap: -50px;
+    color: blue;
+    font-size: 30px;
+}
+button {
+    width: 170px;
+    height: 60px;
+    border: solid;
+    border-radius: 5px;
+    border-color: violet;
+}
+.btn {
+    width: 50px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: px;
+    border-color: yellow;
+    color: red;
+}
+.time {
+    padding-top: 10px;
+    color: purple;
+    font-size: 30px;
+}
+#time-button {
+    color: green;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    background-image: url(./picture/OIP.jfif);
+    
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+
+}
+
+    
+#relax {
+    color: black;
+    /* background-color: white; */
+    border-radius: 50px;
+    backdrop-filter: blur(25px);
+    padding-left: 60px;
+    font-size: 30px;
+    
+}
